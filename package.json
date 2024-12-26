@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mohammad Shakourimonfared",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Mohammad Shakourimonfared",
 	"scripts": {
 		"start": "node server.js"
 	},
@@ -12,5 +12,4 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
-	https://github.com/freeCodeCamp/boilerplate-npm.git
 }
